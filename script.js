@@ -1,1 +1,1 @@
-// add script
+alert("Hi friend!")
