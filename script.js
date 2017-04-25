@@ -1,1 +1,3 @@
-alert("Hi friend!")
+
+alert('HI');
+
